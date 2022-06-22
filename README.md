@@ -18,4 +18,8 @@ I think having to display the time in general was difficult because there were a
 
 <b>What skills from this project will be particularly transferable to other projects or course work?</b> 
 
+I think skills of updating certain things will help in other projects/work involving C++ as it uses functions and organizing format as well as keeping up with the organizing format of the code in general. Having to use different variables and having them work simutainously helps with the project and would help with further ones as well
+
 <b>How did you make this program maintainable, readable, and adaptable?</b>
+
+Organizing all code in functions and keeping a main display with input helps in making the code easy to read and I'm able to edit the code easily which makes it very maintainable. It's easy to change certain code to test certain instances which helps a lot in debugging code as well.
